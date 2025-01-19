@@ -7,10 +7,12 @@
 Portafolio web personal construido con:
 
 ### Frontend
+
 - 🚀 Astro para generar un sitio web estático
 - ⚛️ Componentes React para interfaces interactivas
 
 ### Backend
+
 - 🦁 NestJS como framework backend robusto
 - 🔄 API REST para gestionar el contenido dinámico
 - 🛡️ Arquitectura modular y escalable
@@ -18,10 +20,10 @@ Portafolio web personal construido con:
 ## 🚀 Estructura del proyecto
 
 ```text
-/ 
-├── frontend/ 
+/
+├── frontend/
 │   ├── public/                # Archivos estáticos.
-│   ├── src/ 
+│   ├── src/
 │   │   ├── components/        # Componentes reutilizables.
 │   │   ├── actions/           # Llamadas a APIs.
 │   │   ├── pages/             # Páginas del portafolio.
@@ -33,12 +35,12 @@ Portafolio web personal construido con:
 
 ## 🧞 Comandos
 
-| Comando                   | Acción                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Instala las dependencias                         |
-| `npm run dev`             | Inicia un server local `localhost:4321`          |
-| `npm run build`           | Construye tu proyecto de producción `./dist/`    |
-| `npm run preview`         | Muestra una versión previa de tu proyecto        |
+| Comando           | Acción                                        |
+| :---------------- | :-------------------------------------------- |
+| `npm install`     | Instala las dependencias                      |
+| `npm run dev`     | Inicia un server local `localhost:4321`       |
+| `npm run build`   | Construye tu proyecto de producción `./dist/` |
+| `npm run preview` | Muestra una versión previa de tu proyecto     |
 
 ## Acerca de mi
 
